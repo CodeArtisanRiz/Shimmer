@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shimmer</string>
+    <string name="start_stop_shimmer">Start/Stop Shimmer</string>
+</resources>
